@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+SpeechRecognition
+gTTS
+
+
+
+# Feature	                  Tool / Library
+# UI & Web App	                Streamlit
+# Speech Recognition	   speech_recognition  STT  Google’s Speech Recognition API
+# LLM Text Generation	Google Gemini 1.5 Pro
+# Text-to-Speech	    gTTS (Google Text-to-Speech)
+# Audio Playback	        streamlit.audio
